@@ -1,7 +1,7 @@
 # - Try to find Cairo
 # Once done, this will define
 #
-#  CAIRO_FOUND - system has Cairo
+#  CAIRO_FOUND - system has Cair0
 #  CAIRO_INCLUDE_DIRS - the Cairo include directories
 #  CAIRO_LIBRARIES - link these to use Cairo
 #
